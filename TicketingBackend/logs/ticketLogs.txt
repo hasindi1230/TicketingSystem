@@ -1,0 +1,16 @@
+Vendor 1 released 2 tickets to the ticket pool. Total tickets: 10
+Customer 3 removed 2 tickets. Remaining tickets: 8
+Customer 2 removed 2 tickets. Remaining tickets: 6
+Vendor 2 released 2 tickets to the ticket pool. Total tickets: 8
+Vendor 3 released 2 tickets to the ticket pool. Total tickets: 10
+Customer 1 removed 2 tickets. Remaining tickets: 8
+Customer 1 removed 2 tickets. Remaining tickets: 6
+Customer 2 removed 2 tickets. Remaining tickets: 4
+Vendor 3 released 2 tickets to the ticket pool. Total tickets: 6
+Vendor 1 released 2 tickets to the ticket pool. Total tickets: 8
+Vendor 2 released 2 tickets to the ticket pool. Total tickets: 10
+Customer 3 removed 2 tickets. Remaining tickets: 8
+Customer 2 removed 2 tickets. Remaining tickets: 6
+Customer 3 removed 2 tickets. Remaining tickets: 4
+Customer 1 removed 2 tickets. Remaining tickets: 2
+Customer 2 removed 2 tickets. Remaining tickets: 0

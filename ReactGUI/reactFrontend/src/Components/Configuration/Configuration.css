@@ -1,0 +1,10 @@
+.configuration{
+    text-align: center;
+    color: rgb(33, 6, 107);
+}
+
+button{
+    background-color: rgb(193, 145, 232);
+    border-color:rgb(193, 145, 232);
+    color: #0a1f38;
+}
